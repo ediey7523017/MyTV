@@ -3,6 +3,9 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/fp5EAKE8nTx402n1fWz55QsuYY9.jpg" group-title="▶ VOD BOLLYWOOD",Ikka (2026)
+https://www.dropbox.com/scl/fi/o9o9715ohc3ysgz17gmpo/Ikka.2026.720p.MalaySub.WEB.MSM.mp4?rlkey=nyugw5psu4zbn29r7yegkv5i7&st=2av5wtr2&dl=1
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg" group-title="▶ VOD BOLLYWOOD",O'Romeo (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/O%20Romeo%20(2026).mp4
 
@@ -24,10 +27,10 @@ https://fav.larhu.website/hls/vxzxhtzyqoqfycihmtopzxv7jm2k6bjtmgyrjomvwmlf3jx74a
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dNJrK1uvoBPoYEVTAqI8ZSyrpdI.jpg" group-title="▶ VOD BOLLYWOOD",Aseq (2024)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/Aseq%20(2023).mp4
 
-EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3mKTRcvzXUizGlTlvlb2ryXuc2Y.jpg" group-title="▶ VOD BOLLYWOOD",120 Bahadur (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3mKTRcvzXUizGlTlvlb2ryXuc2Y.jpg" group-title="▶ VOD BOLLYWOOD",120 Bahadur (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/120%20Bahadur%20(2025).mp4
 
-EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/tZJBXGNyDanSne6a2TLRU45Uhwu.jpg" group-title="▶ VOD BOLLYWOOD",Happy Patel: Khatarnak Jasoos (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/tZJBXGNyDanSne6a2TLRU45Uhwu.jpg" group-title="▶ VOD BOLLYWOOD",Happy Patel Khatarnak Jasoos (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/Happy%20Patel%20Khatarnak%20Jasoos%20(2026).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dI7CjJA4cC92UcKMBnCh5BTDHVQ.jpg" group-title="▶ VOD BOLLYWOOD",Dhurandhar The Revenge (2026)
@@ -263,7 +266,7 @@ https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil29/Chor%2
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/6sysjlCKktlf0t0Ck4ArVNo1kai.jpg" group-title="▶ VOD BOLLYWOOD",Bhoot Police (2021)
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil16/Bhoot%20Police%20(2021).mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lUpMckVHaB55YJ3SMK0arwxKmCt.jpg" group-title="▶ VOD BOLLYWOOD",M.S. Dhoni: The Untold Story (2016)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lUpMckVHaB55YJ3SMK0arwxKmCt.jpg" group-title="▶ VOD BOLLYWOOD",M.S. Dhoni The Untold Story (2016)
 https://www.dropbox.com/scl/fi/4y2f6d0wbsj2t8o92hs1n/M.S.-Dhoni-The-Untold-Story-2016.mp4?rlkey=czb08aaq277xpj28ld1zfl384&st=hqovsvjp&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kgZNHHZacK3iO18d7agg9iYQYWp.jpg" group-title="▶ VOD BOLLYWOOD",Sanam Re (2016)
@@ -518,7 +521,7 @@ https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Raat%20Akeli%20Hai%2
 https://www.dropbox.com/scl/fi/mtfux4ntdxwf21v9x8cwc/Raat-Akeli-Hai-2020-Pencuri-Movie-Sub-Malay.mp4?rlkey=n5ahk34wbikcyh9c9vm83j66f&st=smg5n92b&dl=1
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Raat%20Akeli%20Hai.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nBhae2KNhk0R6cvVppoCo389gs6.jpg" group-title="▶ VOD BOLLYWOOD",Raat Akeli Hai: The Bansal Murders (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nBhae2KNhk0R6cvVppoCo389gs6.jpg" group-title="▶ VOD BOLLYWOOD",Raat Akeli Hai The Bansal Murders (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/tamil41/Raat%20Akeli%20Hai%20-%20The%20Bansal%20Murders%202025-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/yQQbUMIZNhSksdsJPIZhe8yCLXK.jpg" group-title="▶ VOD BOLLYWOOD",Footpath (2003)
@@ -1129,7 +1132,7 @@ https://www.dropbox.com/scl/fi/pvy2e0zzms5uxamv60lyx/Mohabbatein-2001.mp4?rlkey=
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://pic.bstarstatic.com/ugc/5bf16110a6fbba9fcc34fbe3183b4210.jpg",Mohabbatein (2000)
 https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Mohabbatein%202000-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cTRAfzb2p2bAD3QnM34mzE9mp1n.jpg" group-title="▶ VOD BOLLYWOOD",Gupt: The Hidden Truth (1997)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cTRAfzb2p2bAD3QnM34mzE9mp1n.jpg" group-title="▶ VOD BOLLYWOOD",Gupt The Hidden Truth (1997)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/tamil41/Gupt%20(1997)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5FmtHHDGPofW5Zjns1EM1D8503c.jpg" group-title="▶ VOD BOLLYWOOD",Kuch Kuch Hota Hai (1998)
@@ -1426,6 +1429,14 @@ https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil6/War%20(2019)%20.mkv
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2Yc8Kl2ldPpDzLrG2M5Ddv62FXB.jpg" group-title="▶ VOD BOLLYWOOD",War 2 (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/tamil41/War%202%202025-hindi-1-720.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/TAAL_POSTER.jpg" group-title="▶ VOD BOLLYWOOD",Taal
+https://d13snj70thqlha.cloudfront.net/523b98c1-3723-4b23-8207-ad47ab46df0c/Taal_20251217.m3u8?id=31418
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/DEVDAS_POSTER.jpg" group-title="▶ VOD BOLLYWOOD",Devdas
+https://d13snj70thqlha.cloudfront.net/579686a6-605e-4e4b-8be5-a251d9e21a12/Devdas_20251217.m3u8?id=31419
+
+#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/POSTER_BAGHBAN.jpg" group-title="▶ VOD BOLLYWOOD",Baghban
+https://d13snj70thqlha.cloudfront.net/ff82735e-bbd6-4c81-93be-6142531dedb0/BaghbanRTMKLIK20251016.m3u8?id=29538
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Sx9vGOozrntDzlZnePoHitJakZ.jpg" group-title="▶ VOD BOLLYWOOD",Bagheera (2024)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2239.mp4
@@ -1455,13 +1466,13 @@ http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2112.mp4
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2089.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s0m4TM1XRAftQStgKpw024RvkJo.jpg" group-title="▶ VOD BOLLYWOOD",Maharaja (2024)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2087.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2G1C677cokQKFHbUKG9sVlIGOiX.jpg" group-title="▶ VOD BOLLYWOOD",Salaar: Part 1 - Ceasefire (2023)
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2G1C677cokQKFHbUKG9sVlIGOiX.jpg" group-title="▶ VOD BOLLYWOOD",Salaar Part 1 - Ceasefire (2023)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2076.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqBoeTYdYjUTDmSlaOIyBjphPsg.jpg" group-title="▶ VOD BOLLYWOOD",Yodha (2024)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2074.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oRvFzcagAcC6Q317xtV7QXzwBnj.jpg" group-title="▶ VOD BOLLYWOOD",Shaitaan (2024)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2067.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmrjo8M4rm6NhkBKk20wDSj91go.jpg" group-title="▶ VOD BOLLYWOOD",Crakk: Jeetega... Toh Jiyegaa (2024)
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmrjo8M4rm6NhkBKk20wDSj91go.jpg" group-title="▶ VOD BOLLYWOOD",Crakk Jeetega... Toh Jiyegaa (2024)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2051.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg" group-title="▶ VOD BOLLYWOOD",Monkey Man (2024)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2047.mp4
@@ -1471,7 +1482,7 @@ http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2039.mp4
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2037.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/66A9MqXOyVFCssoloscw79z8Tew.jpg" group-title="▶ VOD BOLLYWOOD",3 Idiots (2009)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2036.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpDtEjfzys5p8f5cv1T9l8Iqjel.jpg" group-title="▶ VOD BOLLYWOOD",Mission: Chapter 1 (2024)
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cpDtEjfzys5p8f5cv1T9l8Iqjel.jpg" group-title="▶ VOD BOLLYWOOD",Mission Chapter 1 (2024)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/1965.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwyII46YyAitawGoorUjVP4nKY8.jpg" group-title="▶ VOD BOLLYWOOD",Eagle (2024)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/1953.mp4
@@ -1493,7 +1504,7 @@ http://link.zozotv.xyz:8080/movie/zotv873/zxy716/1797.mp4
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/1712.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w1280/dQstfiK8eMqRHwrgkzx4pk9td1l.jpg" group-title="▶ VOD BOLLYWOOD",Spy (2023)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/1713.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AozhsNFfa5Qn2ETztnhpALmlWIy.jpg" group-title="▶ VOD BOLLYWOOD",Pizza 3: The Mummy (2023)
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AozhsNFfa5Qn2ETztnhpALmlWIy.jpg" group-title="▶ VOD BOLLYWOOD",Pizza 3 The Mummy (2023)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/1714.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gYpJc2TdwJugZF3cG7o7HWwixQy.jpg" group-title="▶ VOD BOLLYWOOD",Ramabanam (2023)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/1707.mp4
@@ -1519,9 +1530,9 @@ http://link.zozotv.xyz:8080/movie/zotv873/zxy716/717.mp4
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/682.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncXklBeNi7X7OETqmDVEgaf8ItQ.jpg" group-title="▶ VOD BOLLYWOOD",RRR (2022)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/664.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg" group-title="▶ VOD BOLLYWOOD",K.G.F: Chapter 1 (2018)
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltHlJwvxKv7d0ooCiKSAvfwV9tX.jpg" group-title="▶ VOD BOLLYWOOD",K.G.F. Chapter 1 (2018)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/599.mp4
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27aj5OW1AkFTCb7vlWUaTpDjUwb.jpg" group-title="▶ VOD BOLLYWOOD",K.G.F: Chapter 2 (2022)
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27aj5OW1AkFTCb7vlWUaTpDjUwb.jpg" group-title="▶ VOD BOLLYWOOD",K.G.F. Chapter 2 (2022)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/600.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ptOVJ3cJ8dEWsVynKhvgtGDjU1v.jpg" group-title="▶ VOD BOLLYWOOD",A Thursday (2022)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/496.mp4
@@ -1679,14 +1690,6 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Bajrangi%20B
 #EXTINF:-1 type="movie" group-title="▶ VOD BOLLYWOOD" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/3602.jpg", Halahal (2020)
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Halahal.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/TAAL_POSTER.jpg" group-title="▶ VOD BOLLYWOOD",Taal
-https://d13snj70thqlha.cloudfront.net/523b98c1-3723-4b23-8207-ad47ab46df0c/Taal_20251217.m3u8?id=31418
-
-#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/DEVDAS_POSTER.jpg" group-title="▶ VOD BOLLYWOOD",Devdas
-https://d13snj70thqlha.cloudfront.net/579686a6-605e-4e4b-8be5-a251d9e21a12/Devdas_20251217.m3u8?id=31419
-
-#EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/POSTER_BAGHBAN.jpg" group-title="▶ VOD BOLLYWOOD",Baghban
-https://d13snj70thqlha.cloudfront.net/ff82735e-bbd6-4c81-93be-6142531dedb0/BaghbanRTMKLIK20251016.m3u8?id=29538
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.visionplus.id/images/repository/970/255970-POSTER-m.jpg" group-title="▶ VOD BOLLYWOOD",Khiladi 786
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1910,10 +1913,8 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg" group-title="▶ VOD INDIA",Blast (2026)
 https://fav.larhu.website/hls/vxzxgnw6qkqfycihmtppzwphcyesjmiaa6r4igqqb67mk5kfabmtu5vz3ffa/index.m3u8
 
-#EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/video.php?id=cEFkfHVLQWwVFDUID28OB3UZLHp2GkNz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/zHrn6acLY8DyGiLtbqPPh5CGiYy.jpg" group-title="▶ VOD INDIA",29 (2026)
-https://cloud.hownetwork.xyz/xxx/cEFkfHVLQWwVFDUID28OB3UZLHp2GkNz11064a45/41/480.m3u8
+https://fav.larhu.website/hls/vxzxgqwtqkqfycihmtppzcnrjtxucsa7eu7cyqu4wvkajy5a7silmjpsgcgq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7d8GLneJkF81q1POdK7VUrjWafX.jpg" group-title="▶ VOD INDIA",Drishyam (2013)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/43-1/Drishyam%20(2013).mp4
@@ -1979,7 +1980,7 @@ https://fav.larhu.website/hls/vxzxhqdoqoqfycihmtmpzcnvjt7day3b6l6p6ou5e5ytdlrcew
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5eZzBvETRK8uDz3mUK0Feio2T5C.jpg" group-title="▶ VOD INDIA",Aan Paavam Pollathathu (2025)
 https://fav.larhu.website/hls/vxzxhqtoqoqfycihmtmpzbxddsxonzvcq7cihbhect5jdxmtxjizihrian4q/index.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/khmqybdzRYWeMcoWVPUICyagHdD.jpg" group-title="▶ VOD INDIA",Daksha: The Deadly Conspiracy (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/khmqybdzRYWeMcoWVPUICyagHdD.jpg" group-title="▶ VOD INDIA",Daksha The Deadly Conspiracy (2025)
 https://fav.larhu.website/hls/vxzxhmzwqoqfycihmtopzvfmjqa6pvqc336o4sr7z2qe4aevorujvsxmlfgq/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/87MhKILHPwcForDY0HxzII4tPvA.jpg" group-title="▶ VOD INDIA",Eesha (2026)
@@ -1998,7 +1999,7 @@ https://fav.larhu.website/hls/vxzxgvshqoqfycihmtlpzbxfcp6mffmtkctwp6eaa56ehx26dp
 https://fav.larhu.website/hls/vxzxhgcxqoqfycihmtl7zs5odqgmvcvqwkq73uexsmngxtcwh4rgnu6d4voq/index.m3u8
 https://www.dropbox.com/scl/fi/7r2wfm4dy3beqs7ni52d8/Anaganaga-Oka-Raju-2026.mp4?rlkey=mp3l4onsofquvgsng2giouku9&st=k0e1qfan&dl=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/a41fqMDWRcZcDqidGcq10xmRoh.jpg" group-title="▶ VOD INDIA",Chatha Pacha: The Ring of Rowdies (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/a41fqMDWRcZcDqidGcq10xmRoh.jpg" group-title="▶ VOD INDIA",Chatha Pacha The Ring of Rowdies (2026)
 https://www.dropbox.com/scl/fi/fty78mv6hpev8c36fd8pd/Chatha-Pacha-2026.mp4?rlkey=km5xqzaiwizyiefzr4ultfdgh&st=9fzmsgxd&dl=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/47uIUf9KCfDzxQXixw8lrvYl8C8.jpg" group-title="▶ VOD INDIA",Vaa Vaathiyaar (2026)
@@ -2020,10 +2021,10 @@ https://fav.larhu.website/hls/vxzxgs56qoqfycihmtk7zq7pcli3nd264smvpsjhnliacdnmah
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/23552.jpg" group-title="▶ VOD INDIA",Paradha (2025)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/Paradha%20(2025).mp4
 
-EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tnAj1uRrscUjBMrCwXxgjaSL0m6.jpg" group-title="▶ VOD INDIA",Chitralahari (2019)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tnAj1uRrscUjBMrCwXxgjaSL0m6.jpg" group-title="▶ VOD INDIA",Chitralahari (2019)
 https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Chitralahari%202019-1-720.mp4
 
-EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/onY1KVwZMPgJdtWo0o8MBnSuQc.jpg" group-title="▶ VOD INDIA",Witness (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/onY1KVwZMPgJdtWo0o8MBnSuQc.jpg" group-title="▶ VOD INDIA",Witness (2022)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/Witness%20(2022).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/22525.jpg" group-title="▶ VOD INDIA",Black
@@ -2204,11 +2205,11 @@ http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2331.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/7055.jpg" group-title="▶ VOD INDIA",Sulthan (2021)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/tamil41/Sulthan%20(2021)-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/h6Pd89ngvl9quPVsx3KoJlQsvk9.jpg" group-title="▶ VOD INDIA",Pushpa: The Rise Part 1 (2021)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/h6Pd89ngvl9quPVsx3KoJlQsvk9.jpg" group-title="▶ VOD INDIA",Pushpa The Rise Part 1 (2021)
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil20/Pushpa%20The%20Rise%20-%20Part%201%20(2021).mp4
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Pushpa-%20The%20Rise%20-%20Part%201.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/759mIIerY4Njb8uPoj7AIXGSNh3.jpg" group-title="▶ VOD INDIA",Pushpa: The Rule Part 2 (2024)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/759mIIerY4Njb8uPoj7AIXGSNh3.jpg" group-title="▶ VOD INDIA",Pushpa The Rule Part 2 (2024)
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/tamil37/Pushpa%202%20The%20Rule%20(2024)ok.mp4
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2372.mp4
 
@@ -2247,7 +2248,7 @@ http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4190.mp4
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4508.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwRkVhvJuAFz4i8udXMNkcJCztc.jpg" group-title="▶ VOD INDIA",The Goat Life (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4509.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2G1C677cokQKFHbUKG9sVlIGOiX.jpg" group-title="▶ VOD INDIA",Salaar: Part 1 Ceasefire (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2G1C677cokQKFHbUKG9sVlIGOiX.jpg" group-title="▶ VOD INDIA",Salaar Part 1 Ceasefire (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4512.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmrjo8M4rm6NhkBKk20wDSj91go.jpg" group-title="▶ VOD INDIA",Crakk Jeetega... Toh Jiyegaa (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4515.mp4
@@ -2314,7 +2315,7 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Dhruva.mkv
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Racha%202012.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/euSAn9sVeS4Qnaj1ZWDw56gPi9W.jpg", Yevadu (2014)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Yevadu.mkv
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/rLJ3xyM5iFCfXNSbDOkGZ5ms6oX.jpg", DJ: Duvvada Jagannadham (2017)
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/rLJ3xyM5iFCfXNSbDOkGZ5ms6oX.jpg", DJ Duvvada Jagannadham (2017)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/DJ-%20Duvvada%20Jagannadham.mkv
 #EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/qNYG0NLXcdZEW56pcOjrm0w6Vos.jpg", Bruce Lee The Fighter (2015)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Bruce%20Lee%20-%20The%20Fighter.mkv
